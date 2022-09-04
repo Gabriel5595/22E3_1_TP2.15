@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+div{
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+}
+
+h1{
+  text-align: center;
+}
+
+ol{
+  color: green;
+}
